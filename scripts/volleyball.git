@@ -1,21 +1,10 @@
-# Description:
-#   Track arbitrary karma
-#
-# Dependencies:
-#   None
-#
-# Configuration:
-#   None
+# Track @KeplerGO Volleyball Minutes
 #
 # Commands:
 #   <thing>++ - give thing some karma
 #   <thing>-- - take away some of thing's karma
 #   hubot volley <thing> - check thing's karma (if <thing> is omitted, show the top 5)
 #   hubot volley status [n] - show the top n (default: 5)
-#
-# Author:
-#   D. Stuart Freeman (@stuartf) https://github.com/stuartf
-#   Andy Beger (@abeger) https://github.com/abeger
 
 
 class Karma
